@@ -34,7 +34,7 @@ KeplerQuest-AI is organized as a **multi-repository system**, separating AR and 
 - Activates 3D simulations of planetary motion when image targets are detected
 - Optimized for mid-range smartphones to ensure stable frame rates
 
-#### LLM-Based Chatbot Backend (`kepler-llm`)
+#### LLM-Based Chatbot Backend (`keplerquest-llm`)
 - Implemented as a **web-based application using Streamlit**
 - Powered by **Open LLaMA 3.3–70B**, deployed locally via **Ollama**
 - Provides conversational agents framed as narrative guides
