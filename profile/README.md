@@ -27,14 +27,14 @@ KeplerQuest-AI is organized as a **multi-repository system**, separating AR and 
 
 ### Core Components
 
-#### Augmented Reality Client (`arkepler-unity`)
+#### Augmented Reality Client (`keplerquest-ar`)
 - Developed using **Unity 2022.3**
 - Uses **Vuforia** for image-based tracking
 - Runs locally on **Android mobile devices**
 - Activates 3D simulations of planetary motion when image targets are detected
 - Optimized for mid-range smartphones to ensure stable frame rates
 
-#### LLM-Based Chatbot Backend (`arkepler-llm`)
+#### LLM-Based Chatbot Backend (`kepler-llm`)
 - Implemented as a **web-based application using Streamlit**
 - Powered by **Open LLaMA 3.3–70B**, deployed locally via **Ollama**
 - Provides conversational agents framed as narrative guides
